@@ -1,0 +1,94 @@
+.slant-img
+{
+	    height: 501px;
+    width: 100%;
+    background-color: red;
+	background:url("friends.jpg");
+	    background-repeat: no-repeat;
+}
+.slant {
+    position: relative;
+    display: inline-block;
+    padding: 1em 5em 1em 1em;
+    overflow: hidden;
+    color: #fff;
+    height: 486px;
+    width: 33%;
+    float: right;
+    margin-top: -518px;
+    z-index: 0;
+}
+
+.slant:after
+ {
+    content: '';
+    position: absolute;
+    top: 17px;
+    bottom: 4px;
+    left: 84px;
+    width: 120%;
+    height: 97%;
+    background: #f0f0f0;
+    -webkit-transform-origin: 100% 0;
+    -ms-transform-origin: 100% 0;
+    transform-origin: 0 10%0;
+    -webkit-transform: skew( 
+-121deg
+ );
+    -ms-transform: skew(-7deg);
+    transform: skew( 
+-10deg
+ );
+    z-index: -1;
+}
+#text
+{
+	       height: 46px;
+   // width: 250px;
+  
+   // border: 2px red solid;
+    /* padding: 10px 42px; */
+    margin-left: 148px;
+    /* margin-top: 83px; */
+    color: #888888;
+    text-align: center;
+    font-size: 17px;
+}
+h2
+{
+	color: #888888;
+    margin-top: 122px;
+    text-align: center;
+    margin-left: 137px;
+}
+
+
+.slant-inside
+{
+	height:50px;
+	width:50px;
+	border: 1px red solid;
+}
+h1
+{
+	color:#888888;
+	    text-align: center;
+}
+	
+.B2-slant
+
+{
+	
+	height: 50px;
+    width: auto;
+    background-color: white;
+ }
+ #button
+{
+        height: 50px;
+    width: 140px;
+        margin-top: 141px;
+    margin-left: 220px;
+    background-color: #feeef2;
+    border: none;
+}

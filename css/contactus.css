@@ -1,0 +1,233 @@
+@import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+
+body
+{
+	background: url(overview.jpg);
+	background-size:cover;
+	height:650px;
+width:auto;
+background-color:balck;
+}
+.back
+{
+
+height:650px;
+width:auto;
+//background:rgba(0, 0,0.57, 0.57);
+background-color:#00000059;
+background-size:cover;
+
+}
+.header
+{
+	    height: 100px;
+    width: 250px;
+    /* border: 2px red solid; */
+    margin-left: 579px;
+    padding-top: 5px;
+
+}
+#contact
+{
+	 font-family: "Quattrocento",serif;
+    font-weight: 400;
+    line-height: 1.5em;
+    margin: 0 0 .25em 0;
+    color:white;
+    text-transform: uppercase;
+	text-align:center;
+	margin-left: -85px;
+}
+h1
+{
+	font-family: "Quattrocento",serif;
+    font-weight: 400;
+    line-height: 1.5em;
+    margin: 0 0 .25em 0;
+    color:white;
+    text-transform: uppercase;
+	text-align:center;
+	margin-left: -85px;
+}
+.mailbox
+{
+	    height: 384px;
+    width: 464px;
+    background-color: white;
+    float: right;
+    margin-right: 132px;
+    margin-top: 88px;
+    border-radius: 7px;
+}
+.msg
+{
+	height: 42px;
+    width: 174px;
+  // border: 2px red solid;
+    margin-top: 34px;
+    margin-left:48px;
+	font-weight: 700;
+    font-family: system-ui;
+   
+}
+#msg{
+	text-align:center;
+	margin:0;
+	color:black;
+	font-size:20px;
+	margin-left:-38px;
+}
+input
+{
+	    margin: 0;
+    margin-left: 50px;
+    margin-top: 17px;
+    height: 47px;
+    width: 242px;
+    color: black;
+    border-color: none;
+    border-style: none;
+    font-size: 15px;
+    border-bottom: inset;
+}
+button
+{
+	    height: 46px;
+    width: 129px;
+    margin-top: 28px;
+    margin-left: 59px;
+    font-size: 20px;
+    background-color: #5e53b7;
+   
+    border: none;
+}
+
+.icons{
+height: 384px;
+    width: 434px;
+    //background-color: white;
+    float: left;
+    margin-left: 130px;
+    margin-top: 50px;
+   //border: 0.5px red solid;
+}
+.icon-button
+{
+	    position: inherit;
+    height: 50px;
+    width: 100px;
+    float: left;
+    /* margin: 0; */
+    margin-left: 10px;
+	    margin-top: 38px;
+		color:white;
+}
+.loaction
+{
+	height: 100px;
+    width: 347px;
+   // border: 0.5px red solid;
+   // border-top: -30px;
+    margin-top: -15px;
+}
+.phone
+{
+	height: 100px;
+    width: 347px;
+   // border: 0.5px red solid;
+   // border-top: -30px;
+    margin-top: -15px;
+}
+.mail
+{
+	height: 100px;
+    width: 347px;
+    //border: 0.5px red solid;
+   // border-top: -30px;
+    margin-top: -15px;
+}
+#loaction
+{
+	    background: white;
+    border-radius: 50%;
+    width: 58px;
+    height: 58px;
+	margin-top: 16px;
+}
+#phone
+{
+	background: white;
+    border-radius: 50%;
+    width: 58px;
+    height: 58px;
+	margin-top: 30px;
+}
+#mail
+{
+	background: white;
+    border-radius: 50%;
+    width: 58px;
+    height: 58px;
+	margin-top: 51px;
+}
+.details
+{
+	    height: 90px;
+    width: 187px;
+    /* border: 0.5px red solid; */
+    margin-top: 78px;
+    margin-left: 151px;
+    color: white;
+}
+#Address
+{
+	color: #8a8aea;
+    font-size: 21px;
+    font-family: sans-serif;
+    font-weight: 600;
+	margin-left: 133px;
+    margin-top: -58px;
+}
+	
+	#no
+	{
+		    font-size: 17px;
+    margin-top: -13px;
+	margin-left: 133px;
+        margin-top: -14px;
+	}
+#Ph-no
+	{
+	color: #8a8aea;
+    font-size: 21px;
+    font-family: sans-serif;
+    font-weight: 600;
+	margin-left: 133px;
+    margin-top: -58px;
+
+	}
+	
+	#Number
+	{
+			margin-left: 133px;
+        margin-top: -14px;
+		font-size: 17px;
+		
+	}
+	
+#Email-Address
+{
+	color: #8a8aea;
+    font-size: 21px;
+    font-family: sans-serif;
+    font-weight: 600;
+	margin-left: 133px;
+    margin-top: -58px;
+}	
+#Email-id
+{
+	margin-left: 133px;
+        margin-top: -14px;
+		font-size: 17px;
+}
+	

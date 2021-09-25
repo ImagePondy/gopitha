@@ -1,0 +1,49 @@
+.div3
+{
+height:550px;
+width:1333px;
+border:1px red solid;
+background:url("background.png");
+}
+#grad1 {
+  height: 250px;
+  background-image: linear-gradient(white,black);
+}
+.btn-left button
+{
+	 height: 70px;
+    width: 100px;
+    margin-top: -328px;
+    /* margin: 0 auto; */
+    border: none;
+    background-color: #0000009c;
+	font-size:50px;
+	color:white;
+	
+}
+.btn-right button 
+{
+    height: 70px;
+    width: 100px;
+    margin-top: -328px;
+    /* margin: 0 auto; */
+    border: none;
+    background-color: #0000009c;
+	//float:left;
+	    margin-left: 1234px;
+		
+		font-size:50px;
+	color:white;
+}
+.background-container
+{
+	background-color: black;
+	z-index:1;
+	height:500;
+	width:auto;
+}
+.div3
+{
+	background-color: black;
+	z-index:1;
+}

@@ -1,0 +1,53 @@
+.box1
+{
+    height: 352px;
+    width: 734px;
+    background-color: #f0f0f0;
+	float:right;
+}
+
+#res
+{
+	Height: 43px;
+    width: 182px;
+    margin-top: 50px;
+    margin-left: 41px;
+    border: none;
+    font-size: 17px;
+	color: #888888;
+}
+/*label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}*/
+
+input,
+label {
+        margin: .4rem 0;
+        margin-top: 44px;
+    margin-left: 42px;
+    height: 41px;
+    width: 275px;
+    background-color:white;
+}
+.center-button
+{
+    height: 100px;
+    width: 158px;
+    /* border: 1px red solid; */
+    /* margin-left: 40px; */
+    /* margin: 0 auto; */
+    margin-left: 287px;
+    margin-top: 55px;
+}
+ #button
+{
+    height: 50px;
+    width: 140px;
+    //margin-top: 81px;
+    //margin-left: 220px;
+    background-color: #feeef2;
+    border: none;
+	margin:0 auto;
+	margin-top: 25px;
+}
